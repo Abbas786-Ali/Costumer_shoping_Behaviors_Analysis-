@@ -50,3 +50,6 @@ Targeted marketing campaigns
 Inventory optimization
 Customer retention strategies
 Personalization opportunities
+python code link: https://github.com/Abbas786-Ali/Costumer_shoping_Behaviors_Analysis-/blob/main/Customer_Shopping_Behavior_Analysis.ipynb
+
+Sql quries code link: 
